@@ -5,7 +5,7 @@ Passionate about building modern mobile applications and learning new technologi
 
 ---
 
-![snake](https://github.com/charukasomawansa/snake/blob/output/github-snake.svg)
+![snake](https://github.com/charukasomawansa/snake/blob/output/github-snake-dark.svg)
 
 ## 🚀 Tech Stack
 
